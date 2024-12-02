@@ -15,7 +15,7 @@ Proyek ini menggunakan 9 dataset yang berbeda, yang terdiri dari informasi tenta
 ## Prasyarat
 Sebelum menjalankan proyek ini, pastikan Anda telah menginstal dependensi berikut:
 
-- Python 3.x
+- Python 3
 - Pandas
 - Matplotlib
 - Seaborn
@@ -49,12 +49,6 @@ Salin kode
 streamlit run app.py
 4. Buka Dashboard di Browser
 Setelah menjalankan perintah di atas, Streamlit akan memulai server lokal dan memberikan URL di terminal yang biasanya terlihat seperti ini:
-
-arduino
-Salin kode
-Local URL:  http://localhost:8501
-Network URL:  http://<Your-IP>:8501
-Buka browser dan masukkan URL tersebut (biasanya http://localhost:8501) untuk melihat dashboard interaktif Anda.
 
 ### hasil :
 ![alt text](image.png)

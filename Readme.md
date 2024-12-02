@@ -1,4 +1,4 @@
-# Proyek Analisis Data E-Commerce
+# Submision Analisis Data E-Commerce
 
 ## Deskripsi Proyek
 Proyek ini merupakan analisis data e-commerce yang menggunakan beberapa dataset untuk memberikan wawasan bisnis yang berguna. Proyek ini melibatkan analisis distribusi kategori produk yang paling banyak dipesan dan analisis wilayah pelanggan dengan nilai pembelian tertinggi.
@@ -51,7 +51,8 @@ streamlit run app.py
 Setelah menjalankan perintah di atas, Streamlit akan memulai server lokal dan memberikan URL di terminal yang biasanya terlihat seperti ini:
 
 ### hasil :
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/87613079-022c-486e-84f7-bd132fce53b3)
+
 
 Keunggulan Proyek Ini
 Analisis Data yang Mendalam: Proyek ini menggunakan beberapa teknik analisis untuk menggali wawasan bisnis dari dataset besar, seperti analisis distribusi kategori produk dan analisis berdasarkan wilayah pelanggan.
